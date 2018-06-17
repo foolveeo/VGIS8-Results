@@ -1,0 +1,9 @@
+RGB values irradiance sky: [ 2.433 1.365 1.181 ]
+RGB values irradiance sun: [ 0.502 1.688 1.892 ]
+RGB values radiance sky: [ 0.775 0.435 0.376 ]
+RGB values radiance sun: [ 7469.431 25111.231 28150.986 ]
+irradianceSun / irradianceSky: 0.820
+RGB white balanced irradiance sky: [ 2.433 1.351 1.195 ]
+RGB white balanced irradiance sun: [ 0.502 1.670 1.914 ]
+RGB white balanced radiance sky: [ 0.775 0.430 0.380 ]
+RGB white balanced radiance sun: [ 7469.431 24852.147 28486.117 ]

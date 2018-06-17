@@ -1,0 +1,11 @@
+Average RGB color image: [ 0.188 0.154 0.121 ]
+Average RGB shadow area: [ 0.203 0.214 0.243 ]
+Average RGB lit area: [ 0.212 0.266 0.329 ]
+Average RGB white balance: [ 0.685 0.694 0.755 ]
+Average ns lit area: 0.829 
+Average ns white balance: 0.829 
+Average ao shadow area: 0.647 
+Average ao lit area: 0.922 
+Average ao white balance: 0.922 
+White Balancing Factor: [ 1.013 1.000 0.919 ]
+
